@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tools/Transcompiler.md",
+                "file": "next/style/tailwind/css class/custom className.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tools/Transcompiler.md",
+                "file": "next/style/tailwind/css class/custom className.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tools/Transcompiler.md",
+                "file": "next/style/tailwind/css class/custom className.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tools/Transcompiler.md"
+                "file": "next/style/tailwind/css class/custom className.md"
               }
             }
           }
@@ -161,10 +161,14 @@
   },
   "active": "97e5082986b6d54b",
   "lastOpenFiles": [
+    "CSS Tip.md",
+    "next/style/tailwind/css class/custom className.md",
+    "web/Next를 개발한 이유.md",
+    "web",
+    "tools/Transcompiler.md",
     "tools/CSS preprocessor.md",
     "next/강의flow/13. profile/edit profile.md",
     "tools/babel.md",
-    "tools/Transcompiler.md",
     "next/강의flow/10.authorization/flow.md",
     "tools",
     "next/강의flow/9.authentication/flow.md",
@@ -181,21 +185,17 @@
     "next/style/tailwind/CSS BOX layout setting.md",
     "next/style/tailwind/file input 디자인.md",
     "next/style/tailwind/Button 디자인.md",
-    "CSS Tip.md",
     "next/style/tailwind/css class/border-b.md",
     "next/style/tailwind/plugin.md",
     "next/style/tailwind/Just in time compiler.md",
     "next/style/tailwind/postcss.config.js.md",
     "next/style/tailwind/REM.md",
-    "next/style/tailwind/Tailwind Concept.md",
-    "next/style/tailwind/Tools for tailwind.md",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
     "next/강의flow/Untitled",
     "next/강의flow/14. streams",
     "next/강의flow/13. profile",
     "next/강의flow/12.동네생활-community",
-    "next/강의flow/11.products",
-    "next/강의flow/10.authorization"
+    "next/강의flow/11.products"
   ]
 }
