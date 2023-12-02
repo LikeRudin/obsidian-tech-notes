@@ -105,7 +105,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -158,8 +158,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97e5082986b6d54b",
+  "active": "39c7a24dce32a5dc",
   "lastOpenFiles": [
+    "ai",
     "CSS Tip.md",
     "next/style/tailwind/css class/custom className.md",
     "web/Next를 개발한 이유.md",
@@ -188,7 +189,6 @@
     "next/style/tailwind/plugin.md",
     "next/style/tailwind/Just in time compiler.md",
     "next/style/tailwind/postcss.config.js.md",
-    "next/style/tailwind/REM.md",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
     "next/강의flow/Untitled",
