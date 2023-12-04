@@ -145,8 +145,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be76e18e8a4df694",
+  "active": "39c7a24dce32a5dc",
   "lastOpenFiles": [
+    "algorithm",
     "datastructure/B - Tree.md",
     "datastructure/Binary Search Tree.md",
     "web/SSG.md",
@@ -177,7 +178,6 @@
     "next/강의flow/6. database setup/2. what is prisma.md",
     "next/style/tailwind/position.md",
     "next/강의flow/6. database setup",
-    "next/style/tailwind/Input.md",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
     "next/강의flow/Untitled",
