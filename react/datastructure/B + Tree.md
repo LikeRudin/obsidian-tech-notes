@@ -9,6 +9,6 @@ Leaf Node를 제외한 다른 내부 Node(페이지)는 데이터를 갖고있�
 
 key Words
 
-LeafNode-LinkedList
 B-Tree의 변형
+LeafNode-LinkedList
 검색특화 성능
