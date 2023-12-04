@@ -9,5 +9,6 @@ Node 한개를 Page 또는 Block이라 부르며, 한번의 [[I/O]]  연산에�
 하나를 통째로 들고온다.
 
 
-장점: Insertion, Delete, Search등의 연산이 전부 O(Log(N))의 시간복잡도를 갖는다.
+장점: Insertion, Delete, Search등의 연산이 
+전부 O(Log(N))의 시간복잡도를 갖는다.
 
