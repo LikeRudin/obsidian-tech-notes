@@ -1,5 +1,4 @@
 
 Balanced Tree
 
-[[Binary Search Tree]]에서 하나의 Node에 들어가는 key의 값을 늘리고,
-Tree의 height를 낮춰서 적은량의 I/O 로
+[[Binary Search Tree]]의 변형으로,  하나의 Node에 들어가는 key의 값을 늘리Tree의 height를 낮춰서 [[I/O]]  연산을 줄여서 
