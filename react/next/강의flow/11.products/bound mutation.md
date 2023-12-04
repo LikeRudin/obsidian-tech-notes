@@ -14,11 +14,8 @@
 
 
 
-useMutation
+useMutation({특, HTTP메서드 종류})
 
-유저정보
-<유저정보>useMutation(쿼리 api주소, HTTP메서드 종류 ) => [trigger, data]
-{axios}
 
 
 
