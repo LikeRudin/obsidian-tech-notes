@@ -7,3 +7,27 @@
 화면에서 얻은 데이터만 바꾸기원한다면 boundMutate (useSWR의 반환값) 사용
 
 다른 화면에서 얻은걸 사용하려면 unBoundedMutate (useSWRConfig의 반환값 사용)
+
+
+
+
+
+
+
+
+useMutation () =
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
