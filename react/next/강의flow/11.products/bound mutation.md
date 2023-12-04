@@ -13,8 +13,7 @@
 
 
 
-
-useMutation({특, HTTP메서드 종류})
+ 
 
 
 
