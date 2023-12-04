@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/SSR.md",
+                "file": "datastructure/B - Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/SSR.md",
+                "file": "datastructure/B - Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/SSR.md",
+                "file": "datastructure/B - Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/SSR.md"
+                "file": "datastructure/B - Tree.md"
               }
             }
           }
@@ -147,8 +147,11 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
-    "web/CSR.md",
+    "web/SSG.md",
+    "datastructure/B - Tree.md",
+    "datastructure",
     "web/SSR.md",
+    "web/CSR.md",
     "web/Next를 개발한 이유.md",
     "ai/agent.md",
     "tools/babel.md",
@@ -175,13 +178,10 @@
     "next/강의flow/6. database setup",
     "next/style/tailwind/Input.md",
     "next/style/tailwind/file input 디자인.md",
-    "next/style/tailwind/Button 디자인.md",
-    "next/style/tailwind/css class/border-b.md",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
     "next/강의flow/Untitled",
     "next/강의flow/14. streams",
-    "next/강의flow/13. profile",
-    "next/강의flow/12.동네생활-community"
+    "next/강의flow/13. profile"
   ]
 }
