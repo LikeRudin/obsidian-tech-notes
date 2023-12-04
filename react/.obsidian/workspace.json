@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "next/강의flow/11.products/bound mutation.md",
+                "file": "datastructure/Trie.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "next/강의flow/11.products/bound mutation.md",
+                "file": "datastructure/Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "next/강의flow/11.products/bound mutation.md",
+                "file": "datastructure/Trie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "next/강의flow/11.products/bound mutation.md"
+                "file": "datastructure/Trie.md"
               }
             }
           }
@@ -147,6 +147,8 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "next/강의flow/11.products/bound mutation.md",
+    "datastructure/Trie.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
     "datastructure/Binary Search Tree.md",
@@ -176,8 +178,6 @@
     "next/강의flow/6. database setup/6. Prisma Client.md",
     "next/강의flow/6. database setup/Push TO PlanetScale.md",
     "next/강의flow/6. database setup/5. Connecting to PlanetScale.md",
-    "next/강의flow/6. database setup/4 What is PlanetScale.md",
-    "next/강의flow/6. database setup/3. Prisma Setup.md",
     "next/강의flow/6. database setup",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
