@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datastructure/B - Tree.md"
+                "file": "datastructure/Binary Search Tree.md"
               }
             }
           }
@@ -147,8 +147,9 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
-    "web/SSG.md",
     "datastructure/B - Tree.md",
+    "datastructure/Binary Search Tree.md",
+    "web/SSG.md",
     "datastructure",
     "web/SSR.md",
     "web/CSR.md",
@@ -177,7 +178,6 @@
     "next/style/tailwind/position.md",
     "next/강의flow/6. database setup",
     "next/style/tailwind/Input.md",
-    "next/style/tailwind/file input 디자인.md",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
     "next/강의flow/Untitled",
