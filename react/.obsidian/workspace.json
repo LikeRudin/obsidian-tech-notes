@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datastructure/Binary Search Tree.md",
+                "file": "next/강의flow/14. streams/5. Mutations and Refresh.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datastructure/Binary Search Tree.md",
+                "file": "next/강의flow/14. streams/5. Mutations and Refresh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datastructure/Binary Search Tree.md",
+                "file": "next/강의flow/14. streams/5. Mutations and Refresh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datastructure/Binary Search Tree.md"
+                "file": "next/강의flow/14. streams/5. Mutations and Refresh.md"
               }
             }
           }
@@ -147,8 +147,8 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
-    "datastructure/B - Tree.md",
     "datastructure/Binary Search Tree.md",
+    "datastructure/B - Tree.md",
     "datastructure/B + Tree.md",
     "algorithm",
     "web/SSG.md",
