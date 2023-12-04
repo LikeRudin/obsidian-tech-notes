@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "datastructure/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datastructure/B - Tree.md"
+                "file": "datastructure/Binary Search Tree.md"
               }
             }
           }
@@ -147,9 +147,9 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "datastructure/B - Tree.md",
     "datastructure/Binary Search Tree.md",
     "datastructure/B + Tree.md",
-    "datastructure/B - Tree.md",
     "algorithm",
     "web/SSG.md",
     "datastructure",
