@@ -147,8 +147,10 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
-    "Tree/Heap.md",
+    "Coding Test/javascript/for loop 사용법.md",
     "Tree/Complete Binary Tree.md",
+    "Coding Test",
+    "Tree/Heap.md",
     "Untitled",
     "Tree/Trie.md",
     "datastructure/Heap",
@@ -157,9 +159,8 @@
     "[Transcompiler.md",
     "I/O.md",
     "I",
-    "javascript/for loop 사용법.md",
     "Tree/B - Tree.md",
-    "javascript",
+    "Coding Test/javascript",
     "Tree/B + Tree.md",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
@@ -180,8 +181,6 @@
     "ai",
     "web",
     "next/강의flow/13. profile/edit profile.md",
-    "next/강의flow/10.authorization/flow.md",
-    "tools",
-    "next/강의flow/6. database setup"
+    "tools"
   ]
 }
