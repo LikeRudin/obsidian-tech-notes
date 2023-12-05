@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datastructure/Trie.md",
+                "file": "datastructure/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datastructure/Trie.md",
+                "file": "datastructure/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datastructure/Trie.md",
+                "file": "datastructure/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datastructure/Trie.md"
+                "file": "datastructure/Heap.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "datastructure/Trie.md",
+    "datastructure/Heap.md",
+    "datastructure/Heap",
     "datastructure/N-ary Tree.md",
     "CSS Tip.md",
     "[Transcompiler.md",
@@ -156,7 +159,6 @@
     "datastructure/B - Tree.md",
     "javascript",
     "datastructure/B + Tree.md",
-    "datastructure/Trie.md",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
@@ -179,9 +181,7 @@
     "next/강의flow/10.authorization/flow.md",
     "tools",
     "next/강의flow/9.authentication/flow.md",
-    "next/강의flow/6. database setup/1. Introduction.md",
     "next/강의flow/6. database setup",
-    "next/강의flow/16. nextjs image",
-    "next/강의flow/15. CloudFlare Images"
+    "next/강의flow/16. nextjs image"
   ]
 }
