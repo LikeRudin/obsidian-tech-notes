@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure/Tree/Heap.md",
+                "file": "DataStructure/Tree/Binary Search Tree.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/Tree/Heap.md",
+                "file": "DataStructure/Tree/Binary Search Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/Tree/Heap.md",
+                "file": "DataStructure/Tree/Binary Search Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure/Tree/Heap.md"
+                "file": "DataStructure/Tree/Binary Search Tree.md"
               }
             }
           }
@@ -145,15 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39c7a24dce32a5dc",
+  "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "DataStructure/Tree/Heap.md",
+    "DataStructure/Tree/Binary Search Tree.md",
     "DataStructure/linear",
     "Untitled 1",
     "DataStructure/Tree/B + Tree.md",
     "DataStructure/Tree/Complete Binary Tree.md",
     "Coding Test/javascript/for loop 사용법.md",
     "Coding Test",
-    "DataStructure/Tree/Heap.md",
     "DataStructure",
     "DataStructure/Tree/Trie.md",
     "datastructure/Heap",
@@ -167,7 +168,6 @@
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
-    "DataStructure/Tree/Binary Search Tree.md",
     "algorithm",
     "web/SSG.md",
     "DataStructure/Tree",
@@ -181,7 +181,6 @@
     "next/style/tailwind/CSS BOX layout setting.md",
     "next/style/tailwind/css class/custom className.md",
     "ai",
-    "web",
     "next/강의flow/13. profile/edit profile.md"
   ]
 }
