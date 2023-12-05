@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "javascript/for loop 사용법.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "javascript/for loop 사용법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "datastructure/B - Tree.md",
+                "file": "javascript/for loop 사용법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "datastructure/B - Tree.md"
+                "file": "javascript/for loop 사용법.md"
               }
             }
           }
@@ -147,6 +147,9 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "datastructure/B - Tree.md",
+    "javascript/for loop 사용법.md",
+    "javascript",
     "datastructure/B + Tree.md",
     "datastructure/Trie.md",
     "datastructure/N-ary Tree.md",
@@ -154,7 +157,6 @@
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
     "datastructure/Binary Search Tree.md",
-    "datastructure/B - Tree.md",
     "algorithm",
     "web/SSG.md",
     "datastructure",
@@ -177,11 +179,9 @@
     "next/강의flow/9.authentication/flow.md",
     "next/강의flow/6. database setup/1. Introduction.md",
     "next/강의flow/6. database setup/6. Prisma Client.md",
-    "next/강의flow/6. database setup/Push TO PlanetScale.md",
     "next/강의flow/6. database setup",
     "next/강의flow/16. nextjs image",
     "next/강의flow/15. CloudFlare Images",
-    "next/강의flow/Untitled",
-    "next/강의flow/14. streams"
+    "next/강의flow/Untitled"
   ]
 }
