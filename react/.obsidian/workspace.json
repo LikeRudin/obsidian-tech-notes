@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "80f51d19cd09edf9",
+        "id": "7f3b1fd5048213c4",
         "type": "tabs",
         "children": [
           {
-            "id": "be76e18e8a4df694",
+            "id": "313eb86f435f68f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataStructure/Tree/N-ary Tree.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c1e205a13016ca6c",
@@ -85,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/Tree/N-ary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/Tree/N-ary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,16 +119,15 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DataStructure/Tree/N-ary Tree.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,15 +139,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "be76e18e8a4df694",
+  "active": "39c7a24dce32a5dc",
   "lastOpenFiles": [
+    "DataStructure/Tree/N-ary Tree.md",
     "DataStructure/Tree/Binary Tree.md",
     "DataStructure/Tree/Binary Search Tree.md",
     "DataStructure/Tree/Heap.md",
     "DataStructure/Tree/Complete Binary Tree.md",
     "DataStructure/Tree/Trie.md",
     "Untitled.canvas",
-    "DataStructure/Tree/N-ary Tree.md",
     "DataStructure/linear",
     "Untitled 1",
     "DataStructure/Tree/B + Tree.md",
