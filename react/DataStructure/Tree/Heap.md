@@ -10,16 +10,17 @@ Root에 유지하는 Tree이다.
 
 ### Max-Heap
 
-가장 큰 값은 Root에 저장된다
+가장 큰 값을 Root에 보관
 
 ### Min-Heap
 
-가장 작은값이 Root에 저장된다
+가장 작은 값을  Root에 보관
 
 ### keywords
 
 Priority Root
 Max-min Type
+Complete Binary Tree
 
 
 
