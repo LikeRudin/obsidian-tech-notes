@@ -11,8 +11,12 @@
             "id": "be76e18e8a4df694",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "datastructure/Trie.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "datastructure/Trie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "datastructure/Trie.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "datastructure/Trie.md"
+              }
             }
           }
         ]
@@ -139,6 +147,8 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "datastructure/N-ary Tree.md",
+    "CSS Tip.md",
     "[Transcompiler.md",
     "I/O.md",
     "I",
@@ -147,7 +157,6 @@
     "javascript",
     "datastructure/B + Tree.md",
     "datastructure/Trie.md",
-    "datastructure/N-ary Tree.md",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
@@ -165,7 +174,6 @@
     "next/style/tailwind/CSS BOX layout setting.md",
     "next/style/tailwind/css class/custom className.md",
     "ai",
-    "CSS Tip.md",
     "web",
     "next/강의flow/13. profile/edit profile.md",
     "next/강의flow/10.authorization/flow.md",
