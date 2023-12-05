@@ -14,7 +14,7 @@ isTerminator 와 같은 boolean을 넣어단어의 끝을 나타낸다.
 keywords
 
 Trie
-Prefix Tree
 N-ary Tree
 긴 문자열 저장 및 검색
-cLeafNode
+Prefix Tree
+단어종결LeafNode
