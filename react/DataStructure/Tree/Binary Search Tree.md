@@ -11,9 +11,11 @@ Node에는 숫자로된 key를 저장한다.
 Right Child는 언제나 Parent보다 값이 커야하며,
 Left Child는 언제나 값이 작아야한다.
 
-탐색을 수행할때에는, Root Node부터 값을 비교호
-새로운 Node를 추가할때에 최종적으로 Node가 없는 위치에 저장된다
+Search: 
 
+Root Node부터 값을 비교하며 내려가며 값을 찾음
+
+Insert:
 
 KeyWords
 
