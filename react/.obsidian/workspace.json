@@ -11,8 +11,12 @@
             "id": "313eb86f435f68f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c1e205a13016ca6c",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DataStructure/Tree/Complete Binary Tree.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DataStructure/Tree/Complete Binary Tree.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DataStructure/Tree/Complete Binary Tree.md"
+              }
             }
           }
         ]
@@ -139,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "39c7a24dce32a5dc",
+  "active": "313eb86f435f68f8",
   "lastOpenFiles": [
     "DataStructure/Tree/N-ary Tree.md",
     "DataStructure/Tree/Binary Tree.md",
