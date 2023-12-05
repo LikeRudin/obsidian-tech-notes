@@ -11,8 +11,12 @@
             "id": "be76e18e8a4df694",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "I/O.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "I/O.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "I/O.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "I/O.md"
+              }
             }
           }
         ]
@@ -139,6 +147,8 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "I/O.md",
+    "I",
     "javascript/for loop 사용법.md",
     "datastructure/B - Tree.md",
     "javascript",
@@ -170,10 +180,8 @@
     "tools",
     "next/강의flow/9.authentication/flow.md",
     "next/강의flow/6. database setup/1. Introduction.md",
-    "next/강의flow/6. database setup/6. Prisma Client.md",
     "next/강의flow/6. database setup",
     "next/강의flow/16. nextjs image",
-    "next/강의flow/15. CloudFlare Images",
-    "next/강의flow/Untitled"
+    "next/강의flow/15. CloudFlare Images"
   ]
 }
