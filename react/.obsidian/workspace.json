@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "DataStructure/Tree/Heap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "DataStructure/Tree/Heap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "DataStructure/Tree/Heap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md"
+                "file": "DataStructure/Tree/Heap.md"
               }
             }
           }
@@ -147,10 +147,10 @@
   },
   "active": "be76e18e8a4df694",
   "lastOpenFiles": [
+    "DataStructure/Tree/Complete Binary Tree.md",
     "DataStructure/Tree/Heap.md",
     "DataStructure/Tree/Trie.md",
     "Untitled.canvas",
-    "DataStructure/Tree/Complete Binary Tree.md",
     "DataStructure/Tree/N-ary Tree.md",
     "DataStructure/Tree/Binary Search Tree.md",
     "DataStructure/linear",
