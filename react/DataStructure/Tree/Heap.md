@@ -19,9 +19,10 @@ Root에 유지하는 Tree이다.
 
 
 ### keywords
-Max-min Heap
-Priority Queue
 
+
+Priority Root
+Max-min Type
 
 
 
