@@ -16,9 +16,7 @@ Root에 유지하는 Tree이다.
 
 가장 작은값이 Root에 저장된다
 
-
 ### keywords
-
 
 Priority Root
 Max-min Type
