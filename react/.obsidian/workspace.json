@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f3b1fd5048213c4",
+        "id": "38810d6e89641255",
         "type": "tabs",
         "children": [
           {
-            "id": "313eb86f435f68f8",
+            "id": "8765e56ac17df7b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "2023-12-06.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "2023-12-06.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md",
+                "file": "2023-12-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DataStructure/Tree/Complete Binary Tree.md"
+                "file": "2023-12-06.md"
               }
             }
           }
@@ -146,14 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "313eb86f435f68f8",
+  "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
+    "graphql/Schema.md",
+    "2023-12-06.md",
+    "uber/2 Graphql API/Our First Resolver.md",
+    "graphql",
+    "DataStructure/Tree/Trie.md",
+    "uber/2 Graphql API",
+    "uber",
+    "DataStructure/Tree/B - Tree.md",
+    "DataStructure/Tree/Complete Binary Tree.md",
     "DataStructure/Tree/N-ary Tree.md",
     "DataStructure/Tree/Binary Tree.md",
     "DataStructure/Tree/Binary Search Tree.md",
     "DataStructure/Tree/Heap.md",
-    "DataStructure/Tree/Complete Binary Tree.md",
-    "DataStructure/Tree/Trie.md",
     "Untitled.canvas",
     "DataStructure/linear",
     "Untitled 1",
@@ -166,24 +173,17 @@
     "[Transcompiler.md",
     "I/O.md",
     "I",
-    "DataStructure/Tree/B - Tree.md",
     "Coding Test/javascript",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
-    "algorithm",
     "web/SSG.md",
-    "DataStructure/Tree",
     "web/SSR.md",
     "web/CSR.md",
     "web/Next를 개발한 이유.md",
     "ai/agent.md",
     "tools/babel.md",
     "tools/CSS preprocessor.md",
-    "tools/Transcompiler.md",
-    "next/style/tailwind/CSS BOX layout setting.md",
-    "next/style/tailwind/css class/custom className.md",
-    "ai",
-    "next/강의flow/13. profile/edit profile.md"
+    "tools/Transcompiler.md"
   ]
 }
