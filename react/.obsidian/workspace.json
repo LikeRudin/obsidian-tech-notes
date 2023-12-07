@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "web/SSG.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "web/SSG.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-12-06.md",
+                "file": "web/SSG.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-12-06.md"
+                "file": "web/SSG.md"
               }
             }
           }
@@ -148,32 +148,34 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
+    "computer science/DataStructure/Tree/Trie.md",
+    "computer science/compiler",
+    "computer science",
+    "computer science/DataStructure/Tree/N-ary Tree.md",
+    "Coding Test/Big O Notation.md",
     "graphql/Schema.md",
+    "tanstack-query/Query Key.md",
     "2023-12-06.md",
+    "tanstack-query",
     "uber/2 Graphql API/Our First Resolver.md",
     "graphql",
-    "DataStructure/Tree/Trie.md",
     "uber/2 Graphql API",
     "uber",
-    "DataStructure/Tree/B - Tree.md",
-    "DataStructure/Tree/Complete Binary Tree.md",
-    "DataStructure/Tree/N-ary Tree.md",
-    "DataStructure/Tree/Binary Tree.md",
-    "DataStructure/Tree/Binary Search Tree.md",
-    "DataStructure/Tree/Heap.md",
+    "computer science/DataStructure/Tree/B - Tree.md",
+    "computer science/DataStructure/Tree/Complete Binary Tree.md",
+    "computer science/DataStructure/Tree/Binary Tree.md",
+    "computer science/DataStructure/Tree/Binary Search Tree.md",
+    "computer science/DataStructure/Tree/Heap.md",
     "Untitled.canvas",
-    "DataStructure/linear",
+    "computer science/DataStructure/linear",
     "Untitled 1",
-    "DataStructure/Tree/B + Tree.md",
+    "computer science/DataStructure/Tree/B + Tree.md",
     "Coding Test/javascript/for loop 사용법.md",
     "Coding Test",
-    "DataStructure",
-    "datastructure/Heap",
+    "computer science/DataStructure",
     "CSS Tip.md",
     "[Transcompiler.md",
     "I/O.md",
-    "I",
-    "Coding Test/javascript",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
@@ -181,9 +183,6 @@
     "web/SSR.md",
     "web/CSR.md",
     "web/Next를 개발한 이유.md",
-    "ai/agent.md",
-    "tools/babel.md",
-    "tools/CSS preprocessor.md",
-    "tools/Transcompiler.md"
+    "ai/agent.md"
   ]
 }
