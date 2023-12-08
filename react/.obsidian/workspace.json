@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "web/SSG.md",
+                "file": "Work Flow/Develop/Form.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "web/SSG.md",
+                "file": "Work Flow/Develop/Form.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "web/SSG.md",
+                "file": "Work Flow/Develop/Form.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "web/SSG.md"
+                "file": "Work Flow/Develop/Form.md"
               }
             }
           }
@@ -148,6 +148,12 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Work Flow/Develop/Form.md",
+    "Work Flow/Develop",
+    "Work Flow",
+    "web/SSG.md",
+    "Untitled",
     "computer science/DataStructure/Tree/Trie.md",
     "computer science/compiler",
     "computer science",
@@ -166,23 +172,17 @@
     "computer science/DataStructure/Tree/Binary Tree.md",
     "computer science/DataStructure/Tree/Binary Search Tree.md",
     "computer science/DataStructure/Tree/Heap.md",
-    "Untitled.canvas",
     "computer science/DataStructure/linear",
-    "Untitled 1",
     "computer science/DataStructure/Tree/B + Tree.md",
     "Coding Test/javascript/for loop 사용법.md",
-    "Coding Test",
-    "computer science/DataStructure",
     "CSS Tip.md",
     "[Transcompiler.md",
     "I/O.md",
     "next/강의flow/11.products/bound mutation.md",
     "next/강의flow/11.products/upload API.md",
     "next/강의flow/14. streams/5. Mutations and Refresh.md",
-    "web/SSG.md",
     "web/SSR.md",
     "web/CSR.md",
-    "web/Next를 개발한 이유.md",
-    "ai/agent.md"
+    "web/Next를 개발한 이유.md"
   ]
 }
