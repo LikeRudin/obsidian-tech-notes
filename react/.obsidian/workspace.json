@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work Flow/Develop/Form.md",
+                "file": "nest/파일/폴더 구조.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work Flow/Develop/Form.md",
+                "file": "nest/파일/폴더 구조.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work Flow/Develop/Form.md",
+                "file": "nest/파일/폴더 구조.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work Flow/Develop/Form.md"
+                "file": "nest/파일/폴더 구조.md"
               }
             }
           }
@@ -148,41 +148,42 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
+    "tools/ORM.md",
+    "uber/강의/03_Database_Configuration/3.0 TypeORM and PostgreSQL.md",
+    "uber/강의/02_GraphQL_API/2.5 Vaidating ArgsTypes.md",
+    "uber/강의/03_Database_Configuration",
+    "uber/강의/mock up.md",
+    "uber/강의/02_GraphQL_API/2.4 InputTypes and ArgumentTypes.md",
+    "uber/2 Graphql API/Our First Resolver.md",
+    "uber/강의/02_GraphQL_API/2.3 Arguments.md",
+    "uber/강의/02_GraphQL_API/2.2 Object Type.md",
+    "uber/강의/02_GraphQL_API/2.1 Out First Resolver.md",
+    "uber/강의/02_GraphQL_API/2.0 Apollo Server Setup.md",
+    "uber/강의/01_Introduction/1.7 This Course Structure.md",
+    "uber/강의/01_Introduction/1.6 BackendSetUp.md",
+    "nest/파일/폴더 구조.md",
+    "nest/파일",
+    "nest",
+    "uber/강의/02_GraphQL_API",
+    "uber/강의/Untitled.md",
+    "uber/강의/01_Introduction",
+    "web/CORS.md",
+    "uber/강의",
+    "graphql/GraphQL을 사용하는 이유.md",
+    "work-flow/Develop/Form.md",
+    "paradigm/OOP.md",
+    "graphql/Schema.md",
+    "paradigm",
+    "Untitled 1",
     "Untitled.canvas",
-    "Work Flow/Develop/Form.md",
-    "Work Flow/Develop",
-    "Work Flow",
+    "work-flow/Develop",
+    "work-flow",
     "web/SSG.md",
-    "Untitled",
     "computer science/DataStructure/Tree/Trie.md",
-    "computer science/compiler",
-    "computer science",
     "computer science/DataStructure/Tree/N-ary Tree.md",
     "Coding Test/Big O Notation.md",
-    "graphql/Schema.md",
     "tanstack-query/Query Key.md",
     "2023-12-06.md",
-    "tanstack-query",
-    "uber/2 Graphql API/Our First Resolver.md",
-    "graphql",
-    "uber/2 Graphql API",
-    "uber",
-    "computer science/DataStructure/Tree/B - Tree.md",
-    "computer science/DataStructure/Tree/Complete Binary Tree.md",
-    "computer science/DataStructure/Tree/Binary Tree.md",
-    "computer science/DataStructure/Tree/Binary Search Tree.md",
-    "computer science/DataStructure/Tree/Heap.md",
-    "computer science/DataStructure/linear",
-    "computer science/DataStructure/Tree/B + Tree.md",
-    "Coding Test/javascript/for loop 사용법.md",
-    "CSS Tip.md",
-    "[Transcompiler.md",
-    "I/O.md",
-    "next/강의flow/11.products/bound mutation.md",
-    "next/강의flow/11.products/upload API.md",
-    "next/강의flow/14. streams/5. Mutations and Refresh.md",
-    "web/SSR.md",
-    "web/CSR.md",
-    "web/Next를 개발한 이유.md"
+    "computer science/DataStructure/Tree/B - Tree.md"
   ]
 }
