@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nest/파일/폴더 구조.md",
+                "file": "wetube/09_WEBPACK/9.7 Recap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "nest/파일/폴더 구조.md",
+                "file": "wetube/09_WEBPACK/9.7 Recap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "nest/파일/폴더 구조.md",
+                "file": "wetube/09_WEBPACK/9.7 Recap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "nest/파일/폴더 구조.md"
+                "file": "wetube/09_WEBPACK/9.7 Recap.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
-    "tools/ORM.md",
-    "uber/강의/03_Database_Configuration/3.0 TypeORM and PostgreSQL.md",
-    "uber/강의/02_GraphQL_API/2.5 Vaidating ArgsTypes.md",
-    "uber/강의/03_Database_Configuration",
-    "uber/강의/mock up.md",
-    "uber/강의/02_GraphQL_API/2.4 InputTypes and ArgumentTypes.md",
-    "uber/2 Graphql API/Our First Resolver.md",
-    "uber/강의/02_GraphQL_API/2.3 Arguments.md",
-    "uber/강의/02_GraphQL_API/2.2 Object Type.md",
-    "uber/강의/02_GraphQL_API/2.1 Out First Resolver.md",
-    "uber/강의/02_GraphQL_API/2.0 Apollo Server Setup.md",
-    "uber/강의/01_Introduction/1.7 This Course Structure.md",
-    "uber/강의/01_Introduction/1.6 BackendSetUp.md",
-    "nest/파일/폴더 구조.md",
-    "nest/파일",
-    "nest",
-    "uber/강의/02_GraphQL_API",
-    "uber/강의/Untitled.md",
-    "uber/강의/01_Introduction",
-    "web/CORS.md",
-    "uber/강의",
-    "graphql/GraphQL을 사용하는 이유.md",
+    "uber/강의/Template.md",
+    "wetube/09_WEBPACK/9.7 Recap.md",
+    "wetube/09_WEBPACK/9.6 Better Developer Experience.md",
+    "wetube/09_WEBPACK/9.5 MiniCssExtraPlugin.md",
+    "wetube/09_WEBPACK/9.4 SCSS Loader.md",
+    "wetube/09_WEBPACK/9.0 Introduction to Webpack.md",
+    "wetube/09_WEBPACK/9.1 Webpack Configuration Part 1.md",
+    "wetube/09_WEBPACK/9.2 Webpack Configuration Part 2.md",
+    "wetube/09_WEBPACK/9.3 Webpack Configuration Part 3.md",
     "work-flow/Develop/Form.md",
-    "paradigm/OOP.md",
-    "graphql/Schema.md",
-    "paradigm",
-    "Untitled 1",
-    "Untitled.canvas",
-    "work-flow/Develop",
-    "work-flow",
-    "web/SSG.md",
-    "computer science/DataStructure/Tree/Trie.md",
-    "computer science/DataStructure/Tree/N-ary Tree.md",
-    "Coding Test/Big O Notation.md",
-    "tanstack-query/Query Key.md",
     "2023-12-06.md",
-    "computer science/DataStructure/Tree/B - Tree.md"
+    "CSS Tip.md",
+    "uber/강의/Untitled.md",
+    "node/module/CJS.md",
+    "wetube/02_SET_UP/My Recap.md",
+    "wetube/09_WEBPACK",
+    "wetube/02_SET_UP/2.4 Nodemon.md",
+    "wetube/02_SET_UP/2.3 The Tower of Babel.md",
+    "wetube/03_INTRODUCTION_TO_EXPRESS",
+    "wetube/02_SET_UP/2.2 Understanding Dependencies.md",
+    "wetube/02_SET_UP/2.1 Installing Express.md",
+    "tools/babel.md",
+    "Untitled.canvas",
+    "wetube/02_SET_UP/2.0 Your First NodeJS Project.md",
+    "uber/강의/04_TypeORM_and_nest/4.0 Our First Entity.md",
+    "wetube/02_SET_UP",
+    "wetube",
+    "tanstack-query/Custom Hook.md",
+    "uber/강의/04_TypeORM_and_nest",
+    "tanstack-query/Query Key.md",
+    "node/module/ESM.md",
+    "node/Reactor pattern.md",
+    "node/module",
+    "node",
+    "Coding Test/problems",
+    "react/learn_react/adding_interactivity",
+    "react/learn_react"
   ]
 }
