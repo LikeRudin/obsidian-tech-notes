@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wetube/09_WEBPACK/9.7 Recap.md",
+                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "wetube/09_WEBPACK/9.7 Recap.md",
+                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "wetube/09_WEBPACK/9.7 Recap.md",
+                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "wetube/09_WEBPACK/9.7 Recap.md"
+                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
-    "uber/강의/Template.md",
-    "wetube/09_WEBPACK/9.7 Recap.md",
-    "wetube/09_WEBPACK/9.6 Better Developer Experience.md",
-    "wetube/09_WEBPACK/9.5 MiniCssExtraPlugin.md",
-    "wetube/09_WEBPACK/9.4 SCSS Loader.md",
-    "wetube/09_WEBPACK/9.0 Introduction to Webpack.md",
-    "wetube/09_WEBPACK/9.1 Webpack Configuration Part 1.md",
-    "wetube/09_WEBPACK/9.2 Webpack Configuration Part 2.md",
-    "wetube/09_WEBPACK/9.3 Webpack Configuration Part 3.md",
-    "work-flow/Develop/Form.md",
-    "2023-12-06.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.1 GET Requests Part 1.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.6 Middlewares Part 2.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.7 Setup Recap.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.8 Servers Recap.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.11 External Middlewares.md",
+    "lecture/Template.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.10 Middleware Recap.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.9 Controllers Recap.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.5 Middlewares Part 1.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.3 Responses.md",
     "CSS Tip.md",
-    "uber/강의/Untitled.md",
-    "node/module/CJS.md",
-    "wetube/02_SET_UP/My Recap.md",
-    "wetube/09_WEBPACK",
-    "wetube/02_SET_UP/2.4 Nodemon.md",
-    "wetube/02_SET_UP/2.3 The Tower of Babel.md",
-    "wetube/03_INTRODUCTION_TO_EXPRESS",
-    "wetube/02_SET_UP/2.2 Understanding Dependencies.md",
-    "wetube/02_SET_UP/2.1 Installing Express.md",
-    "tools/babel.md",
-    "Untitled.canvas",
-    "wetube/02_SET_UP/2.0 Your First NodeJS Project.md",
-    "uber/강의/04_TypeORM_and_nest/4.0 Our First Entity.md",
-    "wetube/02_SET_UP",
-    "wetube",
-    "tanstack-query/Custom Hook.md",
-    "uber/강의/04_TypeORM_and_nest",
-    "tanstack-query/Query Key.md",
-    "node/module/ESM.md",
-    "node/Reactor pattern.md",
-    "node/module",
-    "node",
-    "Coding Test/problems",
-    "react/learn_react/adding_interactivity",
-    "react/learn_react"
+    "next/serverside vs clientside/ServerSideRendering.md",
+    "2023-12-06.md",
+    "next/serverside vs clientside/getServerSideProps.md",
+    "next/serverside vs clientside/ClientSideRendering.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.2 Get Requests Part 2.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.4 Recap.md",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Untitled",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.0 Your First Server.md",
+    "lecture/NestJS-Fundamentals/00_Introduction/0.1 Welcome.md",
+    "lecture/wetube/Untitled",
+    "lecture/NestJS-Fundamentals/00_Introduction",
+    "lecture/NestJS-Fundamentals",
+    "lecture/uber/강의/06_USER_AUTHENTICATION/6.0 Introduction to Authentication.md",
+    "lecture",
+    "work-flow/Develop/IndexableType.md",
+    "lecture/uber/강의/06_USER_AUTHENTICATION",
+    "type",
+    "work-flow/Develop/Form.md",
+    "tools/webpack.md",
+    "package",
+    "lecture/wetube/09_WEBPACK/9.7 Recap.md",
+    "lecture/wetube/09_WEBPACK/9.6 Better Developer Experience.md",
+    "lecture/wetube/09_WEBPACK",
+    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS",
+    "Untitled.canvas"
   ]
 }
