@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
+                "file": "Research/231219.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
+                "file": "Research/231219.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
+                "file": "Research/231219.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md"
+                "file": "Research/231219.md"
               }
             }
           }
@@ -148,42 +148,42 @@
   },
   "active": "8765e56ac17df7b6",
   "lastOpenFiles": [
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.1 GET Requests Part 1.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Recap Contents.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.6 Middlewares Part 2.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.7 Setup Recap.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.8 Servers Recap.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.11 External Middlewares.md",
+    "package/tanstack-query/Query Key.md",
+    "package/tanstack-query/Custom Hook.md",
+    "lecture/uber/04_TypeORM_and_nest/4.0 Our First Entity.md",
+    "computer science/DatabaseSystem",
+    "lecture/uber/03_Database_Configuration/3.6 Validationg ConfigService.md",
+    "lecture/Memo.md",
     "lecture/Template.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.10 Middleware Recap.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.9 Controllers Recap.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.5 Middlewares Part 1.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.3 Responses.md",
-    "CSS Tip.md",
-    "next/serverside vs clientside/ServerSideRendering.md",
-    "2023-12-06.md",
-    "next/serverside vs clientside/getServerSideProps.md",
-    "next/serverside vs clientside/ClientSideRendering.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.2 Get Requests Part 2.md",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.4 Recap.md",
+    "lecture/uber/03_Database_Configuration/3.5 Configuring ConfigService.md",
+    "computer science/algorithm/Dynamic Programming.md",
+    "lecture/uber/03_Database_Configuration/3.4 Introducing ConfigService.md",
+    "lecture/wetube/09_WEBPACK/9.4 SCSS Loader.md",
+    "lecture/uber/강의/Untitled.md",
+    "lecture/wetube/09_WEBPACK/9.5 MiniCssExtraPlugin.md",
+    "lecture/wetube/09_WEBPACK/9.3 Webpack Configuration Part 3.md",
+    "lecture/wetube/09_WEBPACK/9.2 Webpack Configuration Part 2.md",
+    "lecture/uber/03_Database_Configuration/3.3_TypeORM Setup.md",
+    "lecture/uber/03_Database_Configuration/3.0 TypeORM and PostgreSQL.md",
+    "lecture/wetube/05_TEMPLATES/5.2 Partials.md",
+    "lecture/wetube/05_TEMPLATES/5.1 Configuring Pug.md",
+    "lecture/wetube/05_TEMPLATES/5.0 Returning HTML.md",
+    "lecture/wetube/04_Routers/4.8 URL Parameters Part 2.md",
+    "lecture/wetube/Untitled 1",
+    "lecture/wetube/04_Routers/4.7 URL Parameters Part 1.md",
+    "lecture/uber/06_USER_AUTHENTICATION/6.0 Introduction to Authentication.md",
+    "computer science/algorithm/Dijkstra Algorithm.md",
+    "lecture/wetube/04_Routers",
+    "work-flow/Develop/Type Test Class.md",
+    "package/jest/matcher/toStrictEqual.md",
+    "package/jest/matcher",
+    "Coding Test/javascript/array/fill.md",
+    "package/jest",
+    "Untitled",
+    "Coding Test/javascript/array",
+    "Research",
     "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/Untitled",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS/3.0 Your First Server.md",
-    "lecture/NestJS-Fundamentals/00_Introduction/0.1 Welcome.md",
-    "lecture/wetube/Untitled",
-    "lecture/NestJS-Fundamentals/00_Introduction",
-    "lecture/NestJS-Fundamentals",
-    "lecture/uber/강의/06_USER_AUTHENTICATION/6.0 Introduction to Authentication.md",
-    "lecture",
-    "work-flow/Develop/IndexableType.md",
-    "lecture/uber/강의/06_USER_AUTHENTICATION",
-    "type",
-    "work-flow/Develop/Form.md",
-    "tools/webpack.md",
-    "package",
-    "lecture/wetube/09_WEBPACK/9.7 Recap.md",
-    "lecture/wetube/09_WEBPACK/9.6 Better Developer Experience.md",
-    "lecture/wetube/09_WEBPACK",
-    "lecture/wetube/03_INTRODUCTION_TO_EXPRESS",
+    "lecture/wetube/05_TEMPLATES",
     "Untitled.canvas"
   ]
 }

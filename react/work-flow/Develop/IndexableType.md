@@ -23,8 +23,23 @@ interface IColorStyles {
 }
 ```
 
+## 2. 구체타입: property 이름 정하기
 
-## 2. 구체 타입
+utility type을 이용한다
+```ts
+
+interface CatInfo {
+age: number;
+breed: string;
+}
+
+type CatName = "miffy" | "boris" | "mordred";
+
+Record<CatName, CatInfo>
+```
+
+
+## 3. 구체 타입: 사용할 타입 바인딩하기
 
 그냥 key를 입력해주면 된다.
 
@@ -47,7 +62,3 @@ interface IValidation {
 
 }
 ```
-
-
-노마드 스터디 마샷님 코드를 참조했습니다.
-https://github.com/marshot9420
